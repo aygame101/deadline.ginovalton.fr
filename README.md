@@ -7,4 +7,4 @@ Site d'affichage pour gestion de projets avec les objectifs la date de rendu ain
 - Maquetter le projet.
 - Compte utilisateur avec BDD. Inscription, Connexion.
 - Chercher pour avoir la création de compte avec un mail, confirmation de mail, pour pouvoir faire un "mdp oublié" et pouvoir le récupérer.
-- Création des projets relié au compte utilisateur.
+- Création des projets relié au compte utilisateur : Nom du projet, description, date limite (et donc calcul en direct du temps restant qui est affiché sur la page d'accueil du compte).
